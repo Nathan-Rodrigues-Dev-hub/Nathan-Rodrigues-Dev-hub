@@ -1,7 +1,7 @@
 <div align="center">
 
-# Olá! Eu sou [Seu Nome] 👋
-### Desenvolvedor Backend .NET | Estagiário em evolução constante
+# Olá! Eu sou o Nathan 👋
+### Desenvolvedor Backend .NET
 
 *"O código imperfeito que existe é melhor que o código perfeito que nunca foi escrito."*
 
@@ -14,7 +14,7 @@
 
 ## 🙋 Sobre mim
 
-Sou estagiário de desenvolvimento de software apaixonado por arquitetura de software e boas práticas. Acredito que a melhor forma de aprender é colocando a mão na massa — mesmo sem saber tudo antes de começar.
+Sou um desenvolvedor de software apaixonado por arquitetura de software e boas práticas. Acredito que a melhor forma de aprender é colocando a mão na massa — mesmo sem saber tudo antes de começar.
 
 Tenho me dedicado a ir além do trabalho do dia a dia, construindo projetos do zero para aplicar na prática conceitos como **Clean Architecture**, **DDD** e **Microserviços** — e documentando cada aprendizado no caminho.
 
