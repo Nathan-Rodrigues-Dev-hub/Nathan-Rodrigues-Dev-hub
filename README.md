@@ -67,17 +67,6 @@ Landing page profissional **no ar** para clínica de cirurgia de implante capila
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathan-Rodrigues-Dev-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-Rodrigues-Dev-hub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 📫 **Vamos conversar?** Me chama no [LinkedIn](https://www.linkedin.com/in/nathan-rodrigues-3407111b2/)
